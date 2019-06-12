@@ -24,6 +24,7 @@ header {
 img {
   border: #444 2px solid;
   margin: 12px;
+  max-width: 500px;
 }
 
 nav,
